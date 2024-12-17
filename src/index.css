@@ -1,0 +1,30 @@
+.form input[type="text"]{
+    padding: 3px;
+    border: 1px solid #ccc;
+    margin-right: 20px;  
+    width: 259px;
+    border-radius: 5px;
+}
+.app h6{
+    text-align: center;
+    margin-bottom: 20px;
+    color: #2D9782;
+}
+.addbutton{
+    padding: 4px;
+    width: 108px;
+}
+.app label , .todo  {
+    font-size: 18px;
+    font-weight: 500;
+}
+form .forminput{
+    width: 180px !important;
+    padding: 5px !important;
+}
+.filterbutton{
+    border-radius: 3px;
+}
+.custom-select{
+    border-radius: 3px;
+}
